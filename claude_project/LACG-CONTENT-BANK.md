@@ -20,6 +20,13 @@
 - Dexter — Doakes vs Lila
 - Inglourious Basterds — opening farmhouse (Landa vs LaPadite)
 - Catch Me If You Can — Frank outsmarts the FBI agent
+- Breaking Bad — Walt outplays Mike in the laundry (S4E1 "Box Cutter")
+- Better Call Saul — "Chicanery" courtroom (Jimmy vs Chuck)
+- No Country for Old Men — the coin toss at the gas station
+- Dexter — Dexter vs Doakes
+
+### Covered by other channels — avoid
+- Death Note — L vs Light ("I Analyzed Death Note Like a Chess Game")
 
 ---
 
@@ -85,19 +92,18 @@ Copy a tag EXACTLY as written here.
 
 Big audiences, evergreen search. Check season/episode with web search before proposing.
 
-- Breaking Bad — "Say My Name" (Walt vs Declan); Gus vs Don Eladio by the pool; Walt and Jesse vs Saul, first meeting
-- Better Call Saul — "Chicanery" courtroom (Jimmy vs Chuck); Lalo at Jimmy and Kim's apartment; Kim vs Howard
-- Game of Thrones — "Knowledge is power" (Littlefinger vs Cersei); Varys vs Littlefinger in the throne room; Tyrion's trial; Olenna's last conversation with Jaime
+- Breaking Bad — "Say My Name" (Walt vs Declan, S5E7); Gus vs Don Eladio by the pool; Walt and Jesse vs Saul, first meeting
+- Better Call Saul — the plea deal in "Saul Gone" (S6E13); Lalo at Jimmy and Kim's apartment; Kim vs Howard
+- Game of Thrones — Tywin vs Olenna (S3E6 "The Climb"); "Knowledge is power" (Littlefinger vs Cersei); Tyrion's trial; Olenna's last conversation with Jaime
 - Succession — "Boar on the floor"; Logan vs Kendall confrontations; Tom vs Greg
 - The Godfather / The Godfather Part II — Senate hearing (Pentangeli); Tom Hagen vs Woltz
 - The Silence of the Lambs — "Quid pro quo" (Clarice vs Lecter)
-- No Country for Old Men — the coin toss at the gas station
 - Inglourious Basterds — the basement tavern (the card game and the three fingers)
 - Django Unchained — the dinner table (Candie vs Schultz and Django)
 - The Usual Suspects — Verbal Kint's interrogation
 - A Few Good Men — "You can't handle the truth" courtroom
+- Heat — the diner scene (Hanna vs McCauley)
 - Sherlock (BBC) — the cabbie and the two pills; Sherlock vs Moriarty at the pool
-- Death Note — L vs Light conversations
 - Squid Game — the marbles game (Gi-hun vs Il-nam)
 - Money Heist — the Professor vs Raquel
 - Peaky Blinders — Tommy vs Alfie
