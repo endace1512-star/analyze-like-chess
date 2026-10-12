@@ -1,0 +1,7 @@
+# Chess Studio (Like a Chess Game) — cai SAU KHI da cai torch ban CUDA (xem install_lacg.bat)
+whisperx>=3.4
+demucs>=4.1
+pillow
+numpy
+opencv-python
+pycapcut

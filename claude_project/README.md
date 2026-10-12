@@ -7,7 +7,7 @@ Bộ file để dựng Claude Project cho kênh **Like a Chess Game**: phân tí
 1. Trên claude.ai tạo Project mới tên **Like a Chess Game**.
 2. **Project instructions**: dán toàn bộ nội dung `LACG_command_instructions.md`.
 3. **Project knowledge**: upload 3 file:
-   - `LACG-CHANNEL-DNA.md` — thông tin kênh, công thức title, cấu trúc video, tiêu chí chọn cảnh, thumbnail, footer mô tả, khác biệt với kênh mẫu.
+   - `LACG-CHANNEL-DNA.md` — thông tin kênh, công thức title, cấu trúc video, tiêu chí chọn cảnh, thumbnail, khác biệt với kênh mẫu.
    - `LACG-STYLE-GUIDE.md` — giọng "The Engine", nhịp nước đi, cách viết thẻ, bảng xếp loại nước, luật eval, bảng quy đổi truyện → cờ, tên khai cuộc, danh sách cấm.
    - `LACG-CONTENT-BANK.md` — cảnh đã làm, nhãn nhân vật dùng lại, kho TAG, kho cảnh, mẫu cụm từ tìm kiếm.
 4. Sau mỗi tập: thêm 1 dòng vào §1 của CONTENT-BANK (và nhân vật mới vào §2), upload lại file đó.

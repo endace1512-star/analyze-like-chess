@@ -167,8 +167,6 @@ TITLE RULES: max 70 chars, Title Case, the show name after " | " at the end (sea
 
 <chapters — only if a CHAPTERS block was given: 6-10 lines "m:ss Title", first line "0:00 <Opening name>", then the key moves (every brilliant, great, mistake, blunder, miss, and the turning point), last line "<m:ss> Game Review". Chapter titles 2-6 words, written like "23. Rachel??" or "The Address Swap!!". At least 10s between chapters. If no CHAPTERS block, print the single line [paste chapters here].>
 
-<fixed footer — copy VERBATIM from CHANNEL-DNA §5, never paraphrase>
-
 <3-5 hashtags, e.g. #BreakingBad #Chess #GusFring>
 
 === TAGS (comma-separated, paste as-is) ===

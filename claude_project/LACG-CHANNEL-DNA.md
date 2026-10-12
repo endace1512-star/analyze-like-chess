@@ -72,15 +72,7 @@ Bonus: a famous line the audience already quotes; a character known as a "chess 
 
 ---
 
-## 5. DESCRIPTION FIXED FOOTER
-
-Copy verbatim as the last paragraph before the hashtags in every description:
-
-Like a Chess Game rates iconic TV and film scenes move by move, as if they were chess games. Clips are used for commentary, criticism and analysis. All footage belongs to its respective owners.
-
----
-
-## 6. DIFFERENTIATION vs REFERENCE
+## 5. DIFFERENTIATION vs REFERENCE
 
 | Axis | Reference (Analysed Like Chess) | Like a Chess Game |
 |---|---|---|
@@ -92,7 +84,7 @@ Like a Chess Game rates iconic TV and film scenes move by move, as if they were 
 
 ---
 
-## 7. RIGHTS & REUSED-CONTENT SAFETY
+## 6. RIGHTS & REUSED-CONTENT SAFETY
 
 Clip-based channels live with Content ID claims; the goal is to stay clearly transformative:
 - The commentary must carry the video: freezes with cards spread evenly through the clip (STYLE-GUIDE §2 PACING — no run of more than ~35 s of untouched footage).
